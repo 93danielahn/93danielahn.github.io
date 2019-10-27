@@ -381,7 +381,7 @@ body.offcanvas {
 .colorlib-services,
 .colorlib-contact {
   padding-top: 4em;
-  padding-bottom: 9em;
+  padding-bottom: 0;
   clear: both;
   width: 100%;
   display: block; }
@@ -1427,4 +1427,5 @@ body.offcanvas {
 
 .js .animate-box {
   opacity: 0; }
+
 
